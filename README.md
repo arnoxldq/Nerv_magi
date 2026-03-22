@@ -37,17 +37,6 @@ NERV MAGI TUI is a fully interactive Terminal User Interface (TUI) that recreate
 - **Terminal**: 256-color support (most modern terminals)  
 - **Minimum Size**: 120×36 characters for full experience  
 
-**Optional (for real video playback):**
-```bash
-# Debian/Ubuntu
-sudo apt install mpv yt-dlp
-
-# Termux (Android)
-pkg install mpv yt-dlp
-
-# macOS
-brew install mpv yt-dlp
-
 ## 📸 Screenshots
 
 ![image1](assets/image1.png)  
